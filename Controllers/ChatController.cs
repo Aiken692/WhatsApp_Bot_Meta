@@ -15,7 +15,7 @@ namespace WhatsApp_Chatbot.Controllers
     {
         private readonly string CRM_Document_Url = "https://crm-service-test.emata.io/api/documents";
         private readonly string WEBHOOK_VERIFY_TOKEN = "testing";
-        private readonly string GRAPH_API_TOKEN = "EAACwi045M78BO6mj3EdSBmPhrLpuhcjmbl6PyKp5earJSgokmWKEBPplvJO5W9Iq677jGDOO4YBQqFnlRk805xAAmDDCMbRvmYuwY1zBqWdfGavt0qybLKELwLy6jR8SM2U9wriaLtZCZCxKYjZA9qyDW11DHCp7xd7lQsZCi2mKSce2UXV8kflXz7l8nxZAei8dZBZB1aPrvDYjA4nnjAZD";
+        private readonly string GRAPH_API_TOKEN = "EAACwi045M78BOyryTUXuKwtATxrP2GJA3z9IlQt9qz97vXZC2tZA1p10ZCoVa0DucUpQpa42vZCpTp6hrX62wP0EZBJOCZBcXwu25khE8AG4zO4ZBn77ZB0oxpKb2yw5iyEt56tWSBsyGJOutr5lfdZBZCHbM4a6Dbrm3UkZA1X0DnyjpBo7y37dj6NDwSARPE8VQrihcb61x82UbZAY18qGuv008hl1fGta7RByA3vGDyJZCq4qZB";
         private readonly string faceBookUrl = "https://graph.facebook.com/v19.0/";
         private readonly ILogger _logger;
 
